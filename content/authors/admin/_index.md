@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lingze Zhang
+title: Lingze Zhang (张凌泽)
 
 # Name pronunciation (optional)
-name_pronunciation: 张凌泽
+# name_pronunciation:
 
 # Full name (for SEO)
 first_name: Lingze
