@@ -47,9 +47,10 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Model Interpretability
+  - Human-AI Interaction
+  - Creativity Support
 
 education:
   - area: ScM Computer Science
