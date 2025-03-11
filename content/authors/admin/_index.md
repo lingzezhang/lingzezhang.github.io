@@ -73,7 +73,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEcon Finance and Banking \n & BSc Mathematics and Applied Mathematics
+  - area: BEcon Finance and Banking & BSc Mathematics and Applied Mathematics
     institution: Peking University
     date_start: 2010-09-01
     date_end: 2014-07-01

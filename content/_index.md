@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: quantum-gradient.svg # stacked-peaks.svg
+          filename: freepik1.svg # stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
