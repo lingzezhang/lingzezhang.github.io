@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/untakenJ
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lingze-zhang/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=W7sSmTgAAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
