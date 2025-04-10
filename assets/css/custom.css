@@ -8,5 +8,9 @@
 }
 
 .blox-resume-biography-3 {
-    padding-top: 0;
+  padding-top: 0 !important;
+}
+
+#about-me {
+  margin-block-start: 0;
 }
