@@ -10,9 +10,9 @@ main:
   - name: Publications
     url: /#publications
     weight: 11
-  - name: Misc.
-    url: /misc
-    weight: 12
+  # - name: Misc.
+  #   url: /misc
+  #   weight: 12
   - name: Contact Me
     url: /#contactme
     weight: 13
