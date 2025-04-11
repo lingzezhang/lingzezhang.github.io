@@ -1,5 +1,5 @@
 ---
-title: 'Miscellaneous'
+title: 'misc'
 date: 2025-04-12
 type: landing
 
