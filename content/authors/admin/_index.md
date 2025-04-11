@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lingze Zhang (张凌泽)
+title: Lingze Zhang
 
 # Name pronunciation (optional)
 # name_pronunciation:
@@ -31,7 +31,7 @@ role: Independent Researcher
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lzjuliuszhang@gmail.com'
+    url: 'mailto:lingze_zhanbg@alumni.brown.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/LingzeZhang
