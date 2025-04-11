@@ -1,6 +1,6 @@
 ---
-title: 'misc'
-date: 2025-04-12
+title: 'Miscellaneous'
+date: 2025-04-11
 type: landing
 
 design:
