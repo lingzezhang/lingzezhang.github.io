@@ -40,7 +40,7 @@ sections:
       # Display content from the `content/post/` folder
       filters:
         folders:
-          - publication-example
+          - publications
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
