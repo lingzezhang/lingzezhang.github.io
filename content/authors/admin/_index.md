@@ -186,7 +186,7 @@ education:
 
 Hi! I'm Lingze, a researcher with a passion for natural language processing and human–AI interaction. I am especially fascinated by large language models (LLMs) and other AI systems, focusing on unraveling their inner mechanisms and understanding their capabilities. Equally, I am driven to investigate how human creativity and decision-making processes can be enhanced through collaboration with AI. 
 
-I recently earned my ScM in Computer Science from Brown University, where I had the privilege of working with Ellie Pavlick. Prior to Brown, I gained industry experience in various roles, including machine learning engineer and product manager. I also hold a Master’s degree in economics, a Bachelor’s degree in finance, and a Double Bachelor’s degree in mathematics from Peking University, along with some study experience at the University of Maryland in Human-Computer Interaction.
+I recently earned my ScM in Computer Science from Brown University, where I had the privilege of working with [Ellie Pavlick](https://scholar.google.com/citations?hl=en&user=sFyrSa8AAAAJ&view_op=list_works&sortby=pubdate). Prior to Brown, I gained industry experience in various roles, including machine learning engineer and product manager. I also hold a Master’s degree in economics, a Bachelor’s degree in finance, and a Double Bachelor’s degree in mathematics from Peking University, along with some study experience at the University of Maryland in Human-Computer Interaction.
 
 📣 I am currently seeking research assistant or visiting researcher opportunities to begin as soon as possible, as well as PhD opportunities starting in Fall 2025 or later.
 {style="font-weight:bold;color:crimson"}
