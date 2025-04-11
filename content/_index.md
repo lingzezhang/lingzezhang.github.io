@@ -53,7 +53,7 @@ sections:
     content:
       title: Contact Me
       subtitle: A subtitle
-      text: 📧 lingze_zhang@alumni.brown.edu
+      text: 📧  lingze_zhang@alumni.brown.edu <br> 🗓️  [Book a meeting with me!](https://calendly.com/lzjuliuszhang/30min)
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
