@@ -17,6 +17,17 @@ My name in Chinese is 张凌泽. "张" is the family name and "凌泽" is the gi
 
 In 2024 at Brown University, I performed as ***the Coppersmith*** in the drama ***Mr. Donkey***(《驴得水》).
 
-| ![I am the Coppersmith!](./indrama.jpg) | 
+![I am the Coppersmith!](./indrama.jpg) 
+*I am the Coppersmith!*
+
+![Our production 1](./act1.jpg) 
+![Our production 2](./act2.jpg) 
+*Our production of Mr. donkey*
+
+<!-- | ![I am the Coppersmith!](./indrama.jpg) | 
 |:--:| 
 | *I am the Coppersmith!* |
+
+| ![I am the Coppersmith!](./indrama.jpg) | 
+|:--:| 
+| *I am the Coppersmith!* | -->
