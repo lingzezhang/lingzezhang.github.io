@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-02-12
+date: 2025-04-11
 type: landing
 
 design:
@@ -48,6 +48,12 @@ sections:
       view: citation
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+  - block: markdown
+    id: contactme
+    content:
+      title: Contact Me
+      subtitle: A subtitle
+      text: 📧 lingze_zhang@alumni.brown.edu
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
