@@ -11,6 +11,5 @@ sections:
   - block: markdown
     content:
       title: Miscellaneous
-      text: ''
+      text: My name in Chinese is 张凌泽. "张" is the family name and "凌泽" is the given name. I'm from [Xiangyang](https://www.trip.com/travel-guide/destination/xiangyang-414/), China, which is one of the best places to live in the world if you don't need a job elsewhere. <br> In 2024 at Brown University, I performed as *the Coppersmith* in the drama *Mr. Donkey*(《驴得水》).
 ---
-My name in Chinese is 张凌泽. "张" is the family name and "凌泽" is the given name. I'm from Xiangyang, China, which is one of the best places to live in the world if you don't need a job elsewhere.
