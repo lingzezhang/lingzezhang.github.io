@@ -57,12 +57,12 @@ sections:
     design:
       # css_class: light
       background:
-        gradient_start: '#c4d9ff'
+        gradient_start: '#a5dbd9'
         gradient_end: '#ffffff'
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
+        text_color_light: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
