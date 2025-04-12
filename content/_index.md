@@ -26,11 +26,11 @@ sections:
           # Add your image background to `assets/media/`.
           filename: freepik1.svg # stacked-peaks.svg
           filters:
-            brightness: 0.5
+            brightness: 1
           size: cover
           position: center
           parallax: false
-          # text_color_light: true
+          text_color_light: true
   - block: collection
     id: publications
     content:
