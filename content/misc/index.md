@@ -3,9 +3,13 @@ title: 'Miscellaneous'
 date: 2025-04-11
 # type: landing
 
-# design:
+design:
 #   # Section spacing
 #   spacing: '5rem'
+  background:
+    color: '#f3f3e8'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: false
 
 # sections:
 #   - block: markdown

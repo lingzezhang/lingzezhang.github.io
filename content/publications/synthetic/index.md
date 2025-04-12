@@ -75,6 +75,13 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+design:
+#   # Section spacing
+#   spacing: '5rem'
+  background:
+    color: '#f3f3e8'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: false
 ---
 
 <!-- {{% callout note %}}

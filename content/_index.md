@@ -62,7 +62,7 @@ sections:
       # css_class: light
       background:
         gradient_start: '#a5dbd9'
-        gradient_end: '#ffffff'
+        gradient_end: '#f3f3e8'
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
