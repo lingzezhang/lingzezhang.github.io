@@ -20,5 +20,13 @@
 }
 
 .page-header {
-  background-color: #b5aac6 !important;
+  background-color: #f3f3e8;
+}
+
+#site-header.header {
+  background-color: #f3f3e8;
+}
+
+.page-body {
+  background-color: #f3f3e8;
 }
