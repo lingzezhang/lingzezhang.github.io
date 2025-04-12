@@ -53,7 +53,7 @@ interests:
   - Creativity Support
 
 education:
-  - area: ScM Computer Science
+  - area: ScM Computer Science, 02/2025
     institution: Brown University
     date_start: 2022-08-24
     date_end: 2024-12-21
@@ -62,7 +62,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEcon Economics
+  - area: MEcon Economics, 07/2017
     institution: Peking University
     date_start: 2014-09-01
     date_end: 2017-07-01
@@ -73,12 +73,17 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEcon Finance and Banking & BSc Mathematics and Applied Mathematics
+  - area: BEcon Finance and Banking, 07/2014
     institution: Peking University
     date_start: 2010-09-01
     date_end: 2014-07-01
     summary: |
       Thesis - A Comparative Study of Financial Crises in Different Countries —— a Perspective of Technological Progress and Income Distribution (Advised by Dr. Lianfa Li)
+  
+  - area: BSc Mathematics and Applied Mathematics, 07/2014
+    institution: Peking University
+    date_start: 2010-09-01
+    date_end: 2014-07-01
       
   #     Courses included:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
