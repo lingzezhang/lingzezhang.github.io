@@ -48,6 +48,10 @@ sections:
       view: citation
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+      background:
+        color: '#f3f3e8'
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: false
   - block: markdown
     id: contactme
     content:
