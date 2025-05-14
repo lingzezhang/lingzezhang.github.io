@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
-        text: Easily Email Me with AI!
-        url: https://eaisyemail.lzhang.org/
     design:
       css_class: light
       background:
@@ -60,7 +57,7 @@ sections:
     content:
       title: Contact Me
       subtitle: A subtitle
-      text: 📧  lingze_zhang@alumni.brown.edu <br> 🗓️  [Book a meeting with me!](https://calendly.com/lzjuliuszhang/30min)
+      text: 🪄  [<BETA> Easily email me with AI (I developed the website!)](https://eaisyemail.lzhang.org) <br> 📧  lingze_zhang@alumni.brown.edu <br> 🗓️  [Book a meeting with me!](https://calendly.com/lzjuliuszhang/30min)
     design:
       # css_class: light
       background:
