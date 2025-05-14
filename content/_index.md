@@ -57,7 +57,7 @@ sections:
     content:
       title: Contact Me
       subtitle: A subtitle
-      text: 🪄  [<BETA> Easily email me with AI (I developed the website!)](https://eaisyemail.lzhang.org) <br> 📧  lingze_zhang@alumni.brown.edu <br> 🗓️  [Book a meeting with me!](https://calendly.com/lzjuliuszhang/30min)
+      text: 🪄  [\(BETA\) Easily email me with AI (I developed the website!)](https://eaisyemail.lzhang.org) <br> 📧  lingze_zhang@alumni.brown.edu <br> 🗓️  [Book a meeting with me!](https://calendly.com/lzjuliuszhang/30min)
     design:
       # css_class: light
       background:
