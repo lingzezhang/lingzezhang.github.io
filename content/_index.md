@@ -18,6 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+      button:
+        text: Easily Email Me with AI!
+        url: https://eaisyemail.lzhang.org/
     design:
       css_class: light
       background:
