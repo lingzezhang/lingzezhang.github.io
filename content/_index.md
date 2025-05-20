@@ -16,9 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       buttons:
-        - text: 📄 Download CV
+        - text: 📥 Download CV
           url: uploads/resume.pdf
-        - text: 🪄 Email me eaisy with AI!
+        - text: 🧙 Email me eaisy with AI!
           url: https://lingze.eaisy.email
     design:
       css_class: light
