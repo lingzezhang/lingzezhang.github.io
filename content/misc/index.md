@@ -19,7 +19,7 @@ design:
 ---
 My name in Chinese is 张凌泽. "张" is the family name and "凌泽" is the given name. I'm from [Xiangyang](https://www.trip.com/travel-guide/destination/xiangyang-414/), China, which is one of the best places to live in the world if you don't need a job elsewhere.
 
-I developed [a simple website](http://lingze.eaisy.email) to make you email me easily with the help of AI. Feel free to try it out! To save money, I deployed it on [my 11-year-old MacBook Pro](https://drive.google.com/file/d/1gEOHA0c8Q73yhOlyuAAi80Yfn3yCljhD/view?usp=sharing).
+I developed [a simple website](https://lingze.eaisy.email) to make you email me easily with the help of AI. Feel free to try it out! To save money, I deployed it on [my 11-year-old MacBook Pro](https://drive.google.com/file/d/1gEOHA0c8Q73yhOlyuAAi80Yfn3yCljhD/view?usp=sharing).
 
 In 2024 at Brown University, I performed as ***the Coppersmith*** in the drama ***Mr. Donkey***(《驴得水》). You may watch the whole play [here](https://drive.google.com/drive/folders/1wQySRdis2qU5zUvQ9yBYccOAf29lRjjT?usp=sharing) (Unfortunately, it's in Chinese and there's no English subtitle.).
 
