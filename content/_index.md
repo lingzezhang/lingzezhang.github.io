@@ -18,7 +18,7 @@ sections:
       buttons:
         - text: 📥 Download CV
           url: uploads/resume.pdf
-        - text: 🧙 Email me easily with AI!
+        - text: 🧙 Email me easily with AI! (out of service for a few days)
           url: https://lingze.eaisy.email
     design:
       css_class: light
