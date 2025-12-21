@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/lingze-zhang/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=W7sSmTgAAAAJ&hl=en
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0002-2826-3841
 
 interests:
   - Natural Language Processing
