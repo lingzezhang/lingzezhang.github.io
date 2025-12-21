@@ -20,6 +20,8 @@ sections:
           url: uploads/resume.pdf
         - text: 🧙 Email me easily with AI! (out of service for a few days)
           url: https://lingze.eaisy.email
+        - text: 📝 Request Transcripts
+          url: https://docs.google.com/forms/d/1QwGGIXFYchSBwxesH6OMICJt0RzN_gRGT01_HosN4yk/edit
     design:
       css_class: light
       background:
