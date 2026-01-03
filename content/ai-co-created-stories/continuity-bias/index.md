@@ -1,6 +1,6 @@
 ---
 title: 'Continuity Bias (连续性偏置)'
-# summary: Use popular tools such as Plotly, Mermaid, and data frames.
+summary: A fictional story co-created by me and ChatGPT about the idea of "maintaining a lie", with thoughts on my own research interests of mechanistic interpretability and human–AI interaction.
 date: 2026-01-03
 authors:
   - admin
