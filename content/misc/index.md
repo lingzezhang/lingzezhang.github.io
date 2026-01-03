@@ -19,7 +19,7 @@ design:
 ---
 My name in Chinese is 张凌泽. "张" is the family name and "凌泽" is the given name. I'm from [Xiangyang](https://www.trip.com/travel-guide/destination/xiangyang-414/), China, which is one of the best places to live in the world if you don't need a job elsewhere.
 
-One of my recent hobbies is to co-create stories with AI, I postes some of my works [here](/ai-co-created-stories/).
+One of my recent hobbies is to co-create stories with AI, I posted some of my works [here](/ai-co-created-stories/).
 
 I developed [a simple website](https://lingze.eaisy.email) to make you email me easily with the help of AI. Feel free to try it out! To save money, ~~I deployed it on [my 11-year-old MacBook Pro](https://drive.google.com/file/d/1gEOHA0c8Q73yhOlyuAAi80Yfn3yCljhD/view?usp=sharing)~~ (deployed on Google Cloud instead since I'm moving and access to my own router is not available).
 
