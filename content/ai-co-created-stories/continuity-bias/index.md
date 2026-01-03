@@ -9,8 +9,9 @@ authors:
 #   - Hugo
 #   - Hugo Blox
 #   - Markdown
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+image:
+  filename: cbias.png
+  caption: 'Continuity Bias'
 ---
 ## English Version
 [See Chinese version here](#中文版)
