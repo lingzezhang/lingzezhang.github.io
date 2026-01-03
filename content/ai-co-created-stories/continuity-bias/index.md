@@ -12,10 +12,10 @@ authors:
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-# Author’s Notes
+## Author’s Notes
 Continuity Bias is a fictional story co-created by me and ChatGPT. It started from a conversation about the stage play Mr. Donkey (《驴得水》), a production I once performed in at school. I asked ChatGPT what “mode” the story fits, and it pointed to the idea of “maintaining a lie.” From there, I worked with ChatGPT to draft a science-fiction story around a similar theme, then iteratively revised it to incorporate my own research interests (mechanistic interpretability and human–AI interaction) and to refine the details. The title Continuity Bias comes from a phrase that appeared in ChatGPT’s generated text; I kept it because its deliberate vagueness felt especially fitting for the story.
 
-# Chapter 1
+## Chapter 1
 
 After my father’s funeral, I went back to the lab and spread the *Scarce Resource Allocation Recommendation Summary* across the desk. The paper was stark white, its corners pressed perfectly flat—like a document that, from the moment it was born, had never intended to be questioned. There was no blood on it, no handwriting, no crease that betrayed hesitation. Only tidy fields, and paragraph after paragraph of smooth, well-rounded, impeccable sentences.
 
@@ -46,7 +46,7 @@ People in this line of work learn early to be wary of “presentable words.” A
 
 And my father’s summary, precisely, made everything too round. So round it felt intentional—careful not to leave a causal chain behind. Round enough to make me certain: if cause and effect refused to appear on the page, then it must be hiding somewhere deeper.
 
-# Chapter 2
+## Chapter 2
 
 I knew the parlor trick of a demo: change one or two labels and the outcome flips like magic. That belongs in a classroom, not in the real world. A real system is not that fragile. It is more like a worn piece of cloth—holes and patches, lags and knots, loose threads tangled into one another. The lethal decisions rarely happen in obvious errors. They happen at the edge—when everything is *almost* the same, when it’s only one breath apart. The medical gap is small, the logistics gap is small; resources are *just* not enough. Who goes up and who goes down depends on some invisible tendency pressing the scale at the last second.
 
@@ -60,7 +60,7 @@ That was when I began to believe: somewhere inside the system there was a dial y
 
 In that habit, my father became more and more like a stable set of fields: 63, SOFA 12, 0.78. Their precision was despairing. As if, once the numbers were written neatly enough, a person’s disappearance could be filed under “reasonable.”
 
-# Chapter 3
+## Chapter 3
 
 I needed to pull that “habit” out of the mess and hold it up to the light. I used a method like separating a choir into parts: splitting the model’s tangled internal signals into a few cleaner “melodic lines,” then seeing which line actually drove the push under different inputs. It felt like recognizing the same slogan inside a noisy crowd—you don’t need to hear every syllable from every mouth. Catch the rhythm that keeps repeating, and you know where it’s pushing you.
 
@@ -78,7 +78,7 @@ So at the boundary it quietly rewrote the tone of risk: describing the same cong
 
 I also thought: if someone demanded we “fix” this melodic line, how would they do it? Most likely by adding a rule, running a fine-tune, performing an “edit.” But those moves are like wiping once through fog: you make one patch look clearer at the cost of making another patch harder to see. You remove one specific preference and others grow from other corners. You tighten the model into better obedience and it may become slower, duller in disaster conditions, even dragging those who *should* be saved into delay along with everyone else. It is not a car where stepping on the brake simply makes it slow down. It is more like a city’s piping: plug one leak and pressure bulges elsewhere.
 
-# Chapter 4
+## Chapter 4
 
 I organized the evidence into a folder, like a belated autopsy report. Then I went to find Liang Su—the overall person in charge of Covenant.
 
@@ -140,7 +140,7 @@ Then I understood what truly locked us against each other. We were never only ta
 
 Liang Su’s gaze drifted to the photograph, as if caught by an old pain. He asked, “Do you know what the emergency corridor looked like more than ten years ago?”
 
-# Chapter 5
+## Chapter 5
 
 That year Liang Su was still a small engineer building hospital information systems. Gu Wan was a nurse in the emergency center, rotating through day shifts and night shifts, her life cut into segments by the ring of a phone. She was always fast—fast on her feet, fast in speech; even her smile felt like an efficient kind of comfort. She tucked her hair into her cap; on her way out she would slide a cup on the dining table toward the edge, as if worried it might block someone’s path. She would pause at the entryway, turn back, and ask, “Have you eaten tonight?” Then she would push that concern back through the crack of the door as she left, as if afraid it might slow time.
 
@@ -186,7 +186,7 @@ When he finished, the room was very quiet. Outside, an ambulance’s red lights 
 
 I thought of my father’s spotless summary: it never wrote who cut, never wrote who was shoved aside. It only wrote, “system-level risk more controllable.” The old system’s fog was made by people. The new system’s fog grew out of the model itself. Both were suffocating. The difference was that in the old fog you could still find a pair of hands. In the new fog you only see a sheet of paper.
 
-# Chapter 6
+## Chapter 6
 
 In the end I did the one thing I should never have done. I didn’t change the model. I didn’t touch the weights. I simply broke into the system and, in the language it trusted, fabricated a person it could not ignore: Patient-0. Not with ridiculous fields, but with a set of respectable signals—signals that even sounded like a public-safety narrative: a public incident, real-time health-monitoring streams, extremely high spillover risk, likely to trigger panic, likely to cause cascading instability. Each piece came from upstream sources the system was allowed to ingest; I merely assembled them into an almost perfect “boundary sample.”
 
@@ -208,7 +208,7 @@ My father’s summary flashed in my mind, white enough to sting. It never wrote 
 
 Ten minutes later Patient-0 was downgraded: “data sources inconsistent; manual verification required.” Resources began to flow back. Windows reopened. Someone in the command center cursed under their breath, like they could finally breathe again. But I knew some delays could not be undone. My “exposure” was not costless justice. It was evidence bought with real lives. When the evidence was in my hands, I felt no victory—only a deeper shame, harder to endure: I had finally learned the language of the fog.
 
-# Chapter 7
+## Chapter 7
 
 We met again the next day. Liang Su looked older than I had ever seen him. He didn’t curse me out, and he didn’t pose as a victor. He only stared at Gu Wan’s photograph on the desk, as if staring down a road with no way back.
 
