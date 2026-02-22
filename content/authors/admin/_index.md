@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer Volunteer (AI Agent Development)
+role: Independent Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-   - name: Giving forward
-     url: https://www.givingforward.org/
+# organizations:
+#    - name: Giving forward
+#      url: https://www.givingforward.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
