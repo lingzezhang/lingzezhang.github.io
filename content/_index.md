@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       buttons:
         - text: 📥 Download CV
-          url: uploads/resume.pdf
+          url: https://cv.untakenj.top/acdamic-20260508-Lingze_Zhang-CV.pdf
         - text: 🧙 Email me easily with AI!
           url: https://lingze.eaisy.email
         - text: 📝 Request Transcripts
