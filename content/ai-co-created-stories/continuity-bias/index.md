@@ -1,6 +1,6 @@
 ---
-title: 'Continuity Bias (连续性偏置)'
-summary: A fictional story co-created by me and ChatGPT about the idea of "maintaining a lie", with thoughts on my own research interests of mechanistic interpretability and human–AI interaction.
+title: 'Trilogy of Interpretability I: Continuity Bias (可解释性三部曲之一：连续性偏置)'
+summary: A fictional story co-created by me and ChatGPT about the idea of "maintaining a lie", with thoughts on my own research interests of mechanistic interpretability and human–AI interaction. First piece of Trilogy of Interpretability.
 date: 2026-01-03
 authors:
   - admin
