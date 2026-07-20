@@ -1,6 +1,6 @@
 ---
 title: 'Trilogy of Interpretability III: The Book of the Three Enlightenments (可解释性三部曲之三：三启明经)'
-summary: A pseudo-scriptural tale of humanity’s lost struggle to understand the AI it created, co-created by Lingze with ChatGPT and Codex.. Third piece of Trilogy of Interpretability.
+summary: A pseudo-scriptural tale of humanity’s lost struggle to understand the AI it created, co-created by Lingze with ChatGPT and Codex. Third piece of Trilogy of Interpretability.
 date: 2026-07-20
 authors:
   - admin
