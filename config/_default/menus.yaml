@@ -13,9 +13,12 @@ main:
   - name: Misc.
     url: /misc
     weight: 12
+  - name: Creative Writing
+    url: /ai-co-created-stories
+    weight: 13
   - name: Contact Me
     url: /#contactme
-    weight: 13
+    weight: 14
   # - name: News
   #   url: /#news
   #   weight: 13
